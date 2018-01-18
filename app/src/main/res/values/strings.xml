@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TIMON Hackathon</string>
+    <string name="beer">Beer</string>
+    <string name="search">Search</string>
+</resources>
