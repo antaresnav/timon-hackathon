@@ -23,6 +23,11 @@ accept the default settings.
 
 Alternatively use the "gradlew build" command to build the project directly.
 
+Install
+-------
+The current version can be downloaded: 
+https://github.com/antaresnav/timon-hackathon/blob/master/release/hackathon-1.0.apk?raw=true
+
 Support
 -------
 
